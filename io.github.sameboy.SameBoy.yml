@@ -29,7 +29,7 @@ modules:
         commit: 9d993d84e85eeb8dd304e48463d89865795e97ed
         x-checker-data:
           type: git
-          tag-pattern: ^v([\\d.]+)$
+          tag-pattern: ^v([\d.]+)$
 
   - name: sameboy
     buildsystem: autotools
@@ -50,7 +50,7 @@ modules:
         commit: 70332621cb6e0534943df1ea24ace26e4bf2e7bf
         x-checker-data:
           type: git
-          tag-pattern: ^v([\\d.]+)$
+          tag-pattern: ^v([\d.]+)$
       - type: file
         path: io.github.sameboy.SameBoy.metainfo.xml
       - type: patch
