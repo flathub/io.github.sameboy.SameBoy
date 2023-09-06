@@ -1,12 +1,12 @@
 app-id: io.github.sameboy.SameBoy
 runtime: org.freedesktop.Platform
-runtime-version: '21.08'
+runtime-version: '23.08'
 sdk: org.freedesktop.Sdk
 sdk-extensions:
-  - org.freedesktop.Sdk.Extension.llvm13
+  - org.freedesktop.Sdk.Extension.llvm16
 build-options:
-  append-path: /usr/lib/sdk/llvm13/bin
-  prepend-ld-library-path: /usr/lib/sdk/llvm13/lib
+  append-path: /usr/lib/sdk/llvm16/bin
+  prepend-ld-library-path: /usr/lib/sdk/llvm16/lib
 command: sameboy
 rename-desktop-file: sameboy.desktop
 rename-icon: sameboy
