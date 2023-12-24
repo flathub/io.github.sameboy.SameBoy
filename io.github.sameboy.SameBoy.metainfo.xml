@@ -26,6 +26,7 @@ It also includes a text-based debugger with an expression evaluator.</p>
     </screenshot>
   </screenshots>
   <releases>
+    <release version="0.16.1" date="2023-12-24"/>
     <release version="0.16" date="2023-12-17"/>
     <release version="0.15.8" date="2023-01-02"/>
     <release version="v0.15.5" date="2022-08-24" type="stable">
