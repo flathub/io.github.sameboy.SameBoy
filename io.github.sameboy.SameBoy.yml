@@ -26,7 +26,7 @@ modules:
       - type: git
         url: https://github.com/gbdev/rgbds.git
         tag: v0.7.0
-        commit: 0f0456d1acc39da1e0735c3ad6e1f9f192694298
+        commit: a220daab448fdf4c551041e879885adbbc4a8509
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+)$
