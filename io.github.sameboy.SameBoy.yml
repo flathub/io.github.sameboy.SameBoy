@@ -25,11 +25,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/gbdev/rgbds.git
-        tag: v0.7.0
-        commit: 08f3e360c9525b65291db9cee66fc5eb6e4a45e4
-        x-checker-data:
-          type: git
-          tag-pattern: ^v([\d.]+)$
+        tag: v0.6.1
+        commit: 69a573923f208d625df589c7a54a18738b07969c
 
   - name: sameboy
     buildsystem: autotools
