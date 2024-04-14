@@ -43,8 +43,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/LIJI32/SameBoy.git
-        tag: v0.16.2
-        commit: 27b5935b8d0e0af988bcac8e55e92703af24f335
+        tag: v0.16.3
+        commit: b40ba73533af80e61a3d386475cbd67730eac857
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+)$
