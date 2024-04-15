@@ -50,5 +50,3 @@ modules:
           tag-pattern: ^v([\d.]+)$
       - type: file
         path: io.github.sameboy.SameBoy.metainfo.xml
-      - type: patch
-        path: werror.patch
