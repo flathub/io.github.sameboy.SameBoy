@@ -31,98 +31,39 @@ It also includes a text-based debugger with an expression evaluator.</p>
     <release version="0.16.1" date="2023-12-23"/>
     <release version="0.16" date="2023-12-17"/>
     <release version="0.15.8" date="2023-01-02"/>
-    <release version="v0.15.5" date="2022-08-24" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.15.5</url>
-    </release>
-    <release version="v0.15.4" date="2022-07-31" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.15.4</url>
-    </release>
-    <release version="v0.15.3" date="2022-07-25" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.15.3</url>
-    </release>
-    <release version="v0.15.2" date="2022-07-24" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.15.2</url>
-    </release>
-    <release version="v0.15.1" date="2022-07-08" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.15.1</url>
-    </release>
-    <release version="v0.15" date="2022-07-02" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.15</url>
-    </release>
-    <release version="v0.14.7" date="2021-10-30" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.14.7</url>
-    </release>
-    <release version="v0.14.6" date="2021-10-20" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.14.6</url>
-    </release>
-    <release version="v0.14.5" date="2021-08-01" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.14.5</url>
-    </release>
-    <release version="v0.14.4" date="2021-07-30" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.14.4</url>
-    </release>
-    <release version="v0.14.3" date="2021-04-17" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.14.3</url>
-    </release>
-    <release version="v0.14.2" date="2021-03-01" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.14.2</url>
-    </release>
-    <release version="v0.14.1" date="2021-02-28" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.14.1</url>
-    </release>
-    <release version="v0.14" date="2021-02-27" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.14</url>
-    </release>
-    <release version="v0.13.6" date="2020-08-22" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.13.6</url>
-    </release>
-    <release version="v0.13.5" date="2020-08-06" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.13.5</url>
-    </release>
-    <release version="v0.13.4" date="2020-08-05" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.13.4</url>
-    </release>
-    <release version="v0.13.3" date="2020-06-24" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.13.3</url>
-    </release>
-    <release version="v0.13.2" date="2020-06-11" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.13.2</url>
-    </release>
-    <release version="v0.13.1" date="2020-06-03" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.13.1</url>
-    </release>
-    <release version="v0.13" date="2020-05-31" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.13</url>
-    </release>
-    <release version="v0.12.3" date="2020-01-02" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.12.3</url>
-    </release>
-    <release version="v0.12.2" date="2019-09-14" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.12.2</url>
-    </release>
-    <release version="v0.12.1" date="2019-06-22" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.12.1</url>
-    </release>
-    <release version="v0.12" date="2019-06-21" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.12</url>
-    </release>
-    <release version="v0.11.2" date="2018-11-03" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.11.2</url>
-    </release>
-    <release version="v0.11.1" date="2018-07-11" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.11.1</url>
-    </release>
-    <release version="v0.11" date="2018-06-29" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.11</url>
-    </release>
-    <release version="v0.10.1" date="2018-02-02" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.10.1</url>
-    </release>
-    <release version="v0.10" date="2017-12-30" type="stable">
-      <url>https://github.com/LIJI32/SameBoy/releases/tag/v0.10</url>
-    </release>
+    <release version="0.15.5" date="2022-08-24"/>
+    <release version="0.15.4" date="2022-07-31"/>
+    <release version="0.15.3" date="2022-07-25"/>
+    <release version="0.15.2" date="2022-07-24"/>
+    <release version="0.15.1" date="2022-07-08"/>
+    <release version="0.15" date="2022-07-02"/>
+    <release version="0.14.7" date="2021-10-30"/>
+    <release version="0.14.6" date="2021-10-20"/>
+    <release version="0.14.5" date="2021-08-01"/>
+    <release version="0.14.4" date="2021-07-30"/>
+    <release version="0.14.3" date="2021-04-17"/>
+    <release version="0.14.2" date="2021-03-01"/>
+    <release version="0.14.1" date="2021-02-28"/>
+    <release version="0.14" date="2021-02-27"/>
+    <release version="0.13.6" date="2020-08-22"/>
+    <release version="0.13.5" date="2020-08-06"/>
+    <release version="0.13.4" date="2020-08-05"/>
+    <release version="0.13.3" date="2020-06-24"/>
+    <release version="0.13.2" date="2020-06-11"/>
+    <release version="0.13.1" date="2020-06-03"/>
+    <release version="0.13" date="2020-05-31"/>
+    <release version="0.12.3" date="2020-01-02"/>
+    <release version="0.12.2" date="2019-09-14"/>
+    <release version="0.12.1" date="2019-06-22"/>
+    <release version="0.12" date="2019-06-21"/>
+    <release version="0.11.2" date="2018-11-03"/>
+    <release version="0.11.1" date="2018-07-11"/>
+    <release version="0.11" date="2018-06-29"/>
+    <release version="0.10.1" date="2018-02-02"/>
+    <release version="0.10" date="2017-12-30"/>
   </releases>
   <url type="homepage">https://sameboy.github.io/</url>
   <url type="bugtracker">https://github.com/LIJI32/SameBoy/issues</url>
   <content_rating type="oars-1.1"/>
+  <launchable type="desktop-id">io.github.sameboy.SameBoy.desktop</launchable>
 </component>
