@@ -36,6 +36,10 @@ modules:
     make-install-args:
       - PREFIX=${FLATPAK_DEST}
       - DATA_DIR=${FLATPAK_DEST}/share/sameboy/
+    build-options:
+      arch:
+        aarch64:
+          cflags: -Wno-unused-command-line-argument
     post-install:
       # https://github.com/flatpak/flatpak-xdg-utils/issues/35
       - install -Dm 644 FreeDesktop/sameboy.desktop ${FLATPAK_DEST}/share/applications/sameboy.desktop
