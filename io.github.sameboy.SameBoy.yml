@@ -49,8 +49,5 @@ modules:
         url: https://github.com/LIJI32/SameBoy.git
         tag: v0.16.5
         commit: 5408fe8dd2eedb06dbea852e4497073aa2fc6dfb
-        x-checker-data:
-          type: git
-          tag-pattern: ^v([\d.]+)$
       - type: file
         path: io.github.sameboy.SameBoy.metainfo.xml
