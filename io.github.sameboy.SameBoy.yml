@@ -1,12 +1,12 @@
 app-id: io.github.sameboy.SameBoy
 runtime: org.freedesktop.Platform
-runtime-version: '24.08'
+runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 sdk-extensions:
-  - org.freedesktop.Sdk.Extension.llvm19
+  - org.freedesktop.Sdk.Extension.llvm20
 build-options:
-  append-path: /usr/lib/sdk/llvm16/bin
-  prepend-ld-library-path: /usr/lib/sdk/llvm16/lib
+  append-path: /usr/lib/sdk/llvm20/bin
+  prepend-ld-library-path: /usr/lib/sdk/llvm20/lib
 command: sameboy
 rename-desktop-file: sameboy.desktop
 rename-icon: sameboy
@@ -24,8 +24,8 @@ modules:
     cleanup: ['*']
     sources:
         - type: archive
-          url: https://portland.freedesktop.org/download/xdg-utils-1.1.3.tar.gz
-          sha256: d798b08af8a8e2063ddde6c9fa3398ca81484f27dec642c5627ffcaa0d4051d9
+          url: https://gitlab.freedesktop.org/xdg/xdg-utils/-/archive/v1.2.1/xdg-utils-v1.2.1.tar.gz
+          sha256: f6b648c064464c2636884c05746e80428110a576f8daacf46ef2e554dcfdae75
     modules:
       - name: links
         buildsystem: autotools
@@ -54,8 +54,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/gbdev/rgbds.git
-        tag: v0.6.1
-        commit: 69a573923f208d625df589c7a54a18738b07969c
+        tag: v0.9.4
+        commit: d1829ed92327a9f9210ffd45d865331f24dfa4e6
 
   - name: sameboy
     buildsystem: autotools
@@ -82,7 +82,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/LIJI32/SameBoy.git
-        tag: v1.0
-        commit: eadf395de607e5d4bb66dffa90b05d8a36bd4fce
+        tag: v1.0.2
+        commit: 5b883465370bc7ad5a3576d26e7cee2ec553d3a0
       - type: file
         path: io.github.sameboy.SameBoy.metainfo.xml
