@@ -54,8 +54,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/gbdev/rgbds.git
-        tag: v0.9.4
-        commit: d1829ed92327a9f9210ffd45d865331f24dfa4e6
+        tag: v1.0.1
+        commit: 92bfe5d930c07dd4672b148f811305aa294d6e6f
 
   - name: sameboy
     buildsystem: autotools
@@ -82,7 +82,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/LIJI32/SameBoy.git
-        tag: v1.0.2
-        commit: 5b883465370bc7ad5a3576d26e7cee2ec553d3a0
+        tag: v1.0.3
+        commit: 208ba4afabffab9edde416f2dbb8ae459e34adb8
       - type: file
         path: io.github.sameboy.SameBoy.metainfo.xml
